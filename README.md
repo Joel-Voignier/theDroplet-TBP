@@ -1,38 +1,35 @@
 # Droplet (Character from TBP)
 
-This project is aiming to showcase my C++ capabilities in Unreal Engine 5 with C++.
-Je me concentre pour proposer une version compilable facile du personnage joueur de The Blue Path.
+This project is aiming to showcase my C++ capabilities in Unreal Engine 5 with C++. I'm focusing on creating an easy-to-compile version of The Blue Path's player character.
 
-J'ai travaillé 8 mois sur le projet The Blue Path comme unique programmeur.
-Voici le lien du projet sur Itch.io :
-https://sibyllion.itch.io/the-blue-path
+I worked for 8 months on The Blue Path project as the sole programmer. Here's the link to the project on Itch.io: https://sibyllion.itch.io/the-blue-path
 
-Le but est de pouvoir tester le personnage dans son "ensemble" de façon sympathique, avec du code révisé.
+The goal is to be able to test the character as a whole in a friendly way, with revised code.
 
-## Contenu
+## Content
 
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Exemples](#exemples)
-- [Licence](#licence)
+- [How to use](#utilisation)
+- [Examples](#examples)
+- [License](#license)
 
 ## Introduction
 
-[Expliquez brièvement le but et les fonctionnalités de votre projet]
+[Briefly explain the purpose and features of your project]
 
 ## Installation
 
-[Indiquez comment installer votre projet et ses dépendances]
+[Indicate how to install your project and its dependencies]
 
-## Utilisation
+## How to use
 
-[Donnez des instructions sur la manière d'utiliser votre projet]
+[Give instructions on how to use your project]
 
-## Exemples
+## Examples
 
-[Incluez des exemples d'utilisation ou de code]
+[Include examples of use or code]
 
-## Licence
+## License
 
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+This project is licensed under the MIT - see the [LICENSE](LICENSE) file for details.
